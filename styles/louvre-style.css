@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Forum&family=Roboto:ital,wdth,wght@0,75..100,100..900;1,75..100,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
-@import 'normalize.css';
+
 *{
     margin: 0;
     padding: 0;
@@ -257,7 +257,7 @@ button:focus {
 .visiting{
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     width: 1440px;
     height: 1116px;
